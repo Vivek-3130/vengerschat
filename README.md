@@ -20,9 +20,9 @@
 ![EXPRESSjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 💬How to use:
--Step1:- Use command npm run div.
+- Step1:- Use command npm run div.
 
--Step2:- Then run the servers, cd server, nodemon index.jx
+- Step2:- Then run the servers, cd server, nodemon index.jx
 
 
 
